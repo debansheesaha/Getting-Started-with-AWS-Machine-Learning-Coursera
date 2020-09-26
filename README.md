@@ -1,4 +1,4 @@
-# Getting-Started-with-AWS-Machine-Learning-Coursera-Quiz-Solution
+# Getting-Started-with-AWS-Machine-Learning-Coursera
 **Getting Started with AWS Machine Learning**
 
 by Amazon Web Services
