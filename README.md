@@ -11,5 +11,5 @@ This course will teach you how to get started with AWS Machine Learning. Key top
 * [Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/9SRUZME2Y6PG)
 
 ## References
-[[1] Getting Started with AWS Machine Learning (https://www.coursera.org/learn/aws-machine-learning)
+[1] Getting Started with AWS Machine Learning (https://www.coursera.org/learn/aws-machine-learning)
 
